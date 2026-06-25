@@ -3,3 +3,5 @@ pickleball.db
 __pycache__/
 pickleballdata/
 tableau_exports/
+~*.twb
+~*.twbx

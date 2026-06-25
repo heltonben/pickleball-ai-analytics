@@ -1,6 +1,6 @@
 # Pickleball Shot & Rally Analysis
 
-An end-to-end analytics pipeline using data from over 300,000 professional and competitive pickleball shots, combining SQL, predictive modeling, and AI-generated insights. Built as a portfolio project tied to my role as Treasurer of the University of Tennessee Pickleball Club, applying the same exploratory-to-predictive workflow used in financial analysis (data validation, trend analysis, predictive modeling, stakeholder-ready reporting) to a new domain.
+An end-to-end analytics pipeline using data from over 300,000 professional and competitive pickleball shots, combining SQL, predictive modeling, and AI-generated insights. Built as a portfolio project tied to my former role as Treasurer of the University of Tennessee Pickleball Club, applying the same exploratory-to-predictive workflow used in financial analysis (data validation, trend analysis, predictive modeling, stakeholder-ready reporting) to a new domain.
 
 Built using Claude as a coding and analysis tool; all modeling decisions, validation, and data interpretation below are my own.
 
