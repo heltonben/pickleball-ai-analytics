@@ -1,0 +1,17 @@
+=== Lob ===
+
+Raw stats:
+ skill_lvl  num_final_shots  num_winners  pct_winner
+       3.0               26           10        38.5
+       3.5               21            4        19.0
+       4.0               82           23        28.0
+       4.5               30           10        33.3
+       5.0               42           12        28.6
+       5.5                5            2        40.0
+       Pro               59           21        35.6
+Senior Pro                1            1       100.0
+
+AI-Generated Report:
+## Lob Shot Scouting Report
+
+The lob as a rally-ending shot wins roughly 28–38% of the time across most skill levels, making it a moderately effective weapon but far from a dominant one. The 3.5-level stands out as the weakest performer at just 19%, suggesting players at that level may be lobbing too predictably or into situations where opponents can easily put the ball away. On the higher end, the 3.0 (38.5%) and Pro (35.6%) levels show the strongest results, hinting that both beginners and experienced players may use the lob more strategically — though the 3.0, 3.5, 4.5, and 5.5 groups, as well as the Senior Pro category, all have fewer than 30 final shots and should be treated as small, less reliable samples. The Senior Pro's 100% win rate (1 shot) is essentially meaningless as a data point given that single observation. **Strategic takeaway:** Unless you're at the Pro level or clearly out of position, the lob is not a high-percentage finishing shot — use it as a reset or change-of-pace tool rather than a go-to winner, and focus your aggressive shot selection on higher-percentage options when you have the chance to put the ball away.

@@ -1,0 +1,17 @@
+=== Transition Zone - Approach ===
+
+Raw stats:
+skill_lvl  num_final_shots  num_winners  pct_winner
+      2.5                2            0         0.0
+      3.0               24            4        16.7
+      3.5              167           65        38.9
+      4.0              859          487        56.7
+      4.5              278          115        41.4
+      5.0              320          118        36.9
+      5.5               40           15        37.5
+      Pro              528          217        41.1
+
+AI-Generated Report:
+## Scouting Report: Transition Zone – Approach Shot (Final Shot of Rally)
+
+The transition zone approach shot shows a clear performance peak at the 4.0 level (56.7% win rate), with most other skill levels clustering in the mid-to-upper 30s to low 40s, suggesting this shot becomes more effective as players develop but doesn't maintain that dominance at higher levels. Notably, 4.0 players win with this shot at a significantly higher rate than everyone else, while 3.0 players (16.7%) and 5.0 players (36.9%) struggle with it the most among groups with reliable sample sizes. The 2.5 level (only 2 final shots) and 3.5 level should be interpreted cautiously — actually, the 2.5 sample is extremely small and unreliable, and the 3.5 and higher groups have enough volume to be meaningful. **Flag for small sample size: the 2.5 group (only 2 shots) tells us very little and should be disregarded for meaningful conclusions.** The key strategic takeaway is that higher-level players (4.5 and above) appear to defend or punish this shot more effectively, so if you're playing at 4.5 or above, leaning on a transition zone approach as a rally-ender is a lower-percentage strategy — prioritize getting to the kitchen line before attacking rather than trying to finish from the transition zone.

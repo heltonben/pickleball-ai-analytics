@@ -1,0 +1,18 @@
+=== Speed Up ===
+
+Raw stats:
+ skill_lvl  num_final_shots  num_winners  pct_winner
+       2.5                2            1        50.0
+       3.0                4            3        75.0
+       3.5               63           41        65.1
+       4.0              605          392        64.8
+       4.5              209           99        47.4
+       5.0              277          123        44.4
+       5.5               64           28        43.8
+       Pro              359          169        47.1
+Senior Pro                6            3        50.0
+
+AI-Generated Report:
+## Scouting Report: Speed Up Shot — Final Shot Win Rate by Skill Level
+
+The Speed Up shot shows a clear trend: it works better at mid-level play (3.5–4.0) and becomes less effective as skill level rises. Players at the 3.5 and 4.0 levels convert this shot into winners roughly 65% of the time, while players at the 4.5 level and above — including Pros — win only about 44–47% of the time, suggesting that higher-level players are much better at defending and countering the speed up. The 3.0, 2.5, and Senior Pro groups each have fewer than 30 final shots in the data, so their win percentages (75%, 50%, and 50% respectively) should be treated with caution due to small sample sizes. Notably, the 4.5+ levels all hover just under 50%, meaning a speed up at those levels is essentially a coin flip when it ends the rally — and that doesn't account for all the rallies where the speed up *didn't* end things and potentially put the hitter in a worse position. **The key takeaway for players and coaches:** if you're competing at 4.5 or above, think twice before relying on the speed up as a put-away — your opponents are likely well-equipped to handle it, and a more patient, reset-based strategy may win more points in the long run.

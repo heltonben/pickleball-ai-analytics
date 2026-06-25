@@ -1,0 +1,17 @@
+=== 3rd Shot Lob ===
+
+Raw stats:
+skill_lvl  num_final_shots  num_winners  pct_winner
+      2.5                5            5       100.0
+      3.0                8            3        37.5
+      3.5               11            3        27.3
+      4.0               52            6        11.5
+      4.5                6            0         0.0
+      5.0                5            1        20.0
+      5.5                1            0         0.0
+      Pro                1            0         0.0
+
+AI-Generated Report:
+## Scouting Report: 3rd Shot Lob (as Final Shot)
+
+The 3rd Shot Lob becomes significantly less effective as skill level increases — win rates drop sharply from the lower levels down to near zero at the top of the competitive ladder, suggesting that higher-level players are well-equipped to put away or counter this shot. The 4.0 level has the most reliable data here with 52 final shots recorded, and even there the shot only wins the rally about 1 in 9 times (11.5%), which is a red flag for anyone relying on it regularly. **Every other skill level — 2.5, 3.0, 3.5, 4.5, 5.0, 5.5, and Pro — has fewer than 30 final shots in the sample, so those numbers should be treated with caution and not taken at face value.** The 2.5 level shows a 100% win rate, but with only 5 instances recorded, that figure almost certainly overstates how reliable this shot actually is. The strategic takeaway is straightforward: unless you are playing at the very beginner level, the 3rd Shot Lob is a low-percentage way to end a rally, and players and coaches should prioritize developing a 3rd Shot Drop or Drive as the primary transition shot instead.

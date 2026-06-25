@@ -1,0 +1,18 @@
+=== Hand Battle ===
+
+Raw stats:
+ skill_lvl  num_final_shots  num_winners  pct_winner
+       2.5              103           40        38.8
+       3.0              326          110        33.7
+       3.5             1299          661        50.9
+       4.0             7001         3550        50.7
+       4.5             2231          907        40.7
+       5.0             2827         1030        36.4
+       5.5              405          153        37.8
+       Pro             2912         1109        38.1
+Senior Pro               33           13        39.4
+
+AI-Generated Report:
+## Hand Battle Shot — Scouting Report
+
+Across most skill levels, the Hand Battle shot closes out rallies at a winner rate somewhere in the mid-to-upper 30s percent, meaning it ends the point in the hitter's favor roughly one out of every three times it is the last shot played. The clear standout is the **3.5 and 4.0 levels**, where this shot converts at just over **50%** — noticeably higher than every other group and suggesting players at those levels are particularly effective at finishing with this shot, or that their opponents struggle to handle it. On the other end, **3.0 and 5.0 players convert at only about 34–36%**, making the Hand Battle one of the weaker finishing shots at those levels relative to the rest of the field. The **Senior Pro group (33 rallies)** has a very small sample size and should be treated with caution — that 39.4% figure may not reflect a true pattern. **Strategic takeaway:** If you play at the 3.5 or 4.0 level, leaning into Hand Battle exchanges at the net could be a real weapon; but at 5.0 and above, opponents handle these exchanges much better, so pairing hand speed with better shot placement or resetting when you don't have a clear advantage may serve you better than forcing the battle.

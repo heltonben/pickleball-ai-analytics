@@ -1,0 +1,18 @@
+=== Serve ===
+
+Raw stats:
+ skill_lvl  num_final_shots  num_winners  pct_winner
+       2.5               19            4        21.1
+       3.0               36            7        19.4
+       3.5              130            5         3.8
+       4.0              543           23         4.2
+       4.5              145            4         2.8
+       5.0              149            1         0.7
+       5.5               18            0         0.0
+       Pro               91            0         0.0
+Senior Pro                1            0         0.0
+
+AI-Generated Report:
+## Scouting Report: Serve as Rally-Ending Shot
+
+The serve almost never wins the rally outright at competitive skill levels — win rates drop sharply from around 20% at the lower levels down to under 5% at 3.5 and above, falling all the way to 0% among Pro and Senior Pro players. The 2.5 and 3.0 levels stand out as clear outliers where the serve ends rallies as a winner roughly one in five times, but both of those groups have fewer than 30 final shots in the data, so those numbers should be treated with caution as the sample sizes are too small to be fully reliable. The 2.5 group (19 shots) and the Senior Pro group (1 shot) are especially limited and should not be used to draw firm conclusions. From 3.5 onward, where the data is much more robust, the serve virtually never wins the point on its own. The strategic takeaway is clear: at any competitive level, players and coaches should not focus practice time on trying to hit outright ace serves — instead, energy is better spent on what comes *after* the serve, since the serve itself is almost never the shot that wins the rally.

@@ -1,0 +1,18 @@
+=== Dink ===
+
+Raw stats:
+ skill_lvl  num_final_shots  num_winners  pct_winner
+       2.5                7            4        57.1
+       3.0               46            8        17.4
+       3.5              215           56        26.0
+       4.0             1504          439        29.2
+       4.5              898          223        24.8
+       5.0             1448          322        22.2
+       5.5              149           42        28.2
+       Pro             1799          589        32.7
+Senior Pro               15            4        26.7
+
+AI-Generated Report:
+## Scouting Report: Dink — Final Shot Win Rate by Skill Level
+
+Across most competitive skill levels, the dink closes out a rally as a winner roughly 22–29% of the time, meaning it is a relatively consistent but modest finishing shot rather than a dominant put-away. The standout exception is the Pro level, which shows the highest win rate at 32.7%, suggesting that elite players are better at converting dinks into outright winners — likely through superior placement and timing. On the lower end, 5.0 players show the weakest win rate among the well-represented groups at 22.2%, which may indicate that opponents at that level are skilled enough to handle dinks but players are still relying on them heavily as a finishing shot. It is worth noting that the 2.5 level (only 7 final shots) and Senior Pro level (only 15 final shots) have very small sample sizes, so their numbers — 57.1% and 26.7% respectively — should be treated with caution and not read as reliable trends. The key strategic takeaway is that for players at 4.5 and 5.0 levels, the dink alone is unlikely to win the point outright, so players and coaches should focus on using dinks to *set up* a more aggressive finishing shot rather than expecting the dink itself to end the rally.

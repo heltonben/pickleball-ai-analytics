@@ -1,0 +1,17 @@
+=== Unknown ===
+
+Raw stats:
+skill_lvl  num_final_shots  num_winners  pct_winner
+      2.5                1            0         0.0
+      3.0                1            0         0.0
+      3.5                5            1        20.0
+      4.0               36           21        58.3
+      4.5               26            6        23.1
+      5.0               48           12        25.0
+      5.5                9            2        22.2
+      Pro               54           27        50.0
+
+AI-Generated Report:
+## Scouting Report: "Unknown" Shot Type — Final Shot Win Rate
+
+Across skill levels, this shot type wins roughly 20–25% of the time when it ends a rally, suggesting it is generally **not a high-percentage finishing shot** for most players. The clearest exceptions are **4.0 players (58.3% win rate) and Pros (50.0%)**, where this shot performs significantly better than at every other level — indicating that execution quality at those levels may be unlocking something the other groups are not. However, it is worth noting that **several groups have small sample sizes** — specifically 2.5 (1 shot), 3.0 (1 shot), 3.5 (5 shots), 4.5 (26 shots), and 5.5 (9 shots) — so their percentages are **less reliable and should be interpreted with caution**. The 5.0 group (48 shots) and Pro group (54 shots) offer the most dependable data points in this dataset. **Strategic takeaway:** Unless you are playing at the 4.0 level or are a Pro, leaning on this shot as a rally-ender appears risky — coaches working with 3.5 through 5.5 players (outside of 4.0) should focus on identifying *why* 4.0s succeed with it and whether that technique can be taught or if it reflects a different shot classification issue entirely.

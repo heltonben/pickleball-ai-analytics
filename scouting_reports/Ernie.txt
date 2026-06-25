@@ -1,0 +1,15 @@
+=== Ernie ===
+
+Raw stats:
+skill_lvl  num_final_shots  num_winners  pct_winner
+      3.5                7            5        71.4
+      4.0               51           28        54.9
+      4.5               11            5        45.5
+      5.0                4            2        50.0
+      5.5                4            3        75.0
+      Pro                5            3        60.0
+
+AI-Generated Report:
+**Ernie Shot Scouting Report**
+
+The Ernie is a solid finishing shot overall, converting between roughly 45% and 75% of the time across skill levels, suggesting it is a legitimate weapon when executed well. The 4.0 level stands out as the most reliable data point, with 51 final shots showing a 54.9% win rate, giving us the most confidence in that number. However, every other skill level — 3.5, 4.5, 5.0, 5.5, and Pro — has fewer than 30 final shots in the sample, so those win rates should be treated with caution since a handful of rallies can swing the percentages dramatically. The 4.5 group is worth watching, as its 45.5% win rate is the lowest of any group, hinting that players at that level may be reading and countering the Ernie more effectively — though again, the small sample limits how much we can conclude. **Strategic takeaway:** At the 4.0 level where the data is most trustworthy, the Ernie wins more than half the time when used as a finishing shot, so players at that level should feel confident deploying it aggressively at the net when the opportunity presents itself, rather than holding back out of uncertainty.

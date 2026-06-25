@@ -1,0 +1,18 @@
+=== 3rd Shot Drive ===
+
+Raw stats:
+ skill_lvl  num_final_shots  num_winners  pct_winner
+       2.5               32            6        18.8
+       3.0               93           12        12.9
+       3.5              219           33        15.1
+       4.0             1188          198        16.7
+       4.5              398           80        20.1
+       5.0              402           62        15.4
+       5.5               45            9        20.0
+       Pro              351           50        14.2
+Senior Pro                8            1        12.5
+
+AI-Generated Report:
+## Scouting Report: 3rd Shot Drive (as Rally-Ending Shot)
+
+The 3rd shot drive ends rallies as a winner at a fairly consistent rate across skill levels, generally falling in the **13–20% range**, suggesting this shot rarely outright wins the point on its own regardless of who is hitting it. The **4.5 level stands out as the strongest performer at 20.1%**, while **Pro and 3.0 players show the lowest win rates (14.2% and 12.9% respectively)**, hinting that higher-level opponents are better at neutralizing or countering this shot when it ends a rally. It's worth noting that the **2.5, 5.5, and Senior Pro groups all have fewer than 30 final shots in this dataset**, so their numbers should be treated with caution — those percentages are based on very small samples and may not reflect true tendencies. The fact that even elite Pro players win only about 1 in 7 rallies this way reinforces what most coaches already preach: the 3rd shot drive is best used as a **pressure tool to set up the next shot**, not as a swing-for-the-winner play. Players and coaches should focus on what happens *after* the drive lands — transitions and 5th shot opportunities — rather than expecting the drive itself to finish points.

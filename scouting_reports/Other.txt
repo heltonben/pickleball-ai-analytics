@@ -1,0 +1,13 @@
+=== Other ===
+
+Raw stats:
+skill_lvl  num_final_shots  num_winners  pct_winner
+      2.5                1            0         0.0
+      3.5                8            3        37.5
+      4.0                1            0         0.0
+      Pro                2            0         0.0
+
+AI-Generated Report:
+## Scouting Report: "Other" Shot Type as Rally-Ender
+
+Across all skill levels, the "Other" shot type is a poor rally finisher, converting very few rallies into outright winners. The one exception worth noting is the 3.5 level, where this shot won 37.5% of the time (3 out of 8 final shots) — a noticeably higher rate than any other group, where the win rate was 0%. However, **every single skill level here has fewer than 30 final shots**, meaning none of these numbers are reliable enough to draw firm conclusions — the 3.5 result in particular is based on just 8 shots, so that 37.5% figure could easily be a fluke. Even at the Pro level, only 2 instances were recorded, making it nearly impossible to judge how this shot truly performs at the highest level. The strategic takeaway is simple: avoid relying on "Other" shots to close out rallies, and focus instead on shot types with larger, proven track records as winners — at least until more data is available to say otherwise.

@@ -1,0 +1,17 @@
+=== Transition Zone - Repel ===
+
+Raw stats:
+ skill_lvl  num_final_shots  num_winners  pct_winner
+       3.0               10            3        30.0
+       3.5               56           24        42.9
+       4.0              249          162        65.1
+       4.5               94           45        47.9
+       5.0              122           44        36.1
+       5.5               13            4        30.8
+       Pro              163           69        42.3
+Senior Pro                1            0         0.0
+
+AI-Generated Report:
+## Scouting Report: Transition Zone – Repel (Final Shot Analysis)
+
+Across most skill levels, the Transition Zone Repel shot wins the rally less than half the time when it ends a point, suggesting it is generally a risky shot to rely on as a finishing ball. The clear standout is the **4.0 level**, where this shot wins an impressive **65.1% of the time** — noticeably higher than every other group — while **5.0 players (36.1%)** and **3.0 players (30.0%)** see the weakest results with this shot as a rally-ender. It's worth noting that the **3.0 (10 shots), 5.5 (13 shots), and Senior Pro (1 shot)** groups have very small sample sizes, so those percentages are less reliable and should be interpreted with caution. Interestingly, even Pro players only convert this shot **42.3%** of the time, which suggests that at higher levels, opponents are better equipped to handle or counter it. The key takeaway for players and coaches is to **avoid treating the Transition Zone Repel as a go-to finishing shot** — it appears to work best as a reset or neutralizing ball rather than a winner, and players above the 4.0 level in particular should look to set up a better opportunity before attempting to end the rally from this position.

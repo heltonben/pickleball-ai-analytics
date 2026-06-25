@@ -1,0 +1,94 @@
+=== Hand Battle ===
+## Hand Battle Shot — Scouting Report
+
+Across most skill levels, the Hand Battle shot closes out rallies at a winner rate somewhere in the mid-to-upper 30s percent, meaning it ends the point in the hitter's favor roughly one out of every three times it is the last shot played. The clear standout is the **3.5 and 4.0 levels**, where this shot converts at just over **50%** — noticeably higher than every other group and suggesting players at those levels are particularly effective at finishing with this shot, or that their opponents struggle to handle it. On the other end, **3.0 and 5.0 players convert at only about 34–36%**, making the Hand Battle one of the weaker finishing shots at those levels relative to the rest of the field. The **Senior Pro group (33 rallies)** has a very small sample size and should be treated with caution — that 39.4% figure may not reflect a true pattern. **Strategic takeaway:** If you play at the 3.5 or 4.0 level, leaning into Hand Battle exchanges at the net could be a real weapon; but at 5.0 and above, opponents handle these exchanges much better, so pairing hand speed with better shot placement or resetting when you don't have a clear advantage may serve you better than forcing the battle.
+
+
+=== Transition Zone - Repel ===
+## Scouting Report: Transition Zone – Repel (Final Shot Analysis)
+
+Across most skill levels, the Transition Zone Repel shot wins the rally less than half the time when it ends a point, suggesting it is generally a risky shot to rely on as a finishing ball. The clear standout is the **4.0 level**, where this shot wins an impressive **65.1% of the time** — noticeably higher than every other group — while **5.0 players (36.1%)** and **3.0 players (30.0%)** see the weakest results with this shot as a rally-ender. It's worth noting that the **3.0 (10 shots), 5.5 (13 shots), and Senior Pro (1 shot)** groups have very small sample sizes, so those percentages are less reliable and should be interpreted with caution. Interestingly, even Pro players only convert this shot **42.3%** of the time, which suggests that at higher levels, opponents are better equipped to handle or counter it. The key takeaway for players and coaches is to **avoid treating the Transition Zone Repel as a go-to finishing shot** — it appears to work best as a reset or neutralizing ball rather than a winner, and players above the 4.0 level in particular should look to set up a better opportunity before attempting to end the rally from this position.
+
+
+=== Reset ===
+## Scouting Report: Reset Shot (Final Shot of Rally)
+
+The Reset shot shows a clear decline in effectiveness at the highest levels of play, dropping from around 64% win rate at 4.0 to just 19% at 5.0 and 29% among Pros, suggesting that elite players are better equipped to handle and punish reset attempts. The 4.0 level stands out as the sweet spot where resets are most effective, converting nearly 64% of the time when they end a rally. On the other end, the 5.0 and Pro results are a strong signal that skilled opponents can consistently turn a defensive reset into an opportunity for themselves. **Note that the 2.5 (6 shots), 3.0 (7 shots), and 5.5 (6 shots) data should be treated with caution, as those small sample sizes make their percentages unreliable.** The key strategic takeaway is that players competing at 4.5 and above — especially those aiming to move up — should avoid relying on the reset as a finishing shot and instead focus on using it as a *transitional* tool to reset pressure and set up a better attack, rather than expecting it to win the point outright.
+
+
+=== 3rd Shot Drop ===
+## Scouting Report: 3rd Shot Drop (as Rally-Ending Shot)
+
+Across nearly all skill levels, the 3rd shot drop rarely wins the rally outright — win rates consistently fall between 1.5% and 2.8% for groups with meaningful sample sizes, which makes sense given that this shot is designed to set up the net, not end points on its own. The 3.0 level stands out with a notably higher win rate of 10%, though with only 20 final shots recorded, that sample is too small to draw reliable conclusions. Similarly, the 2.5 and Senior Pro groups each had fewer than 30 final shots, so their numbers should be treated with caution. The 4.0 level had by far the largest sample (723 shots) and showed one of the lowest win rates at 1.5%, which likely reflects that better opponents are well-equipped to handle and continue the rally off this shot. **The key takeaway:** players and coaches should stop expecting the 3rd shot drop to be a point-winner — its real value is in transitioning to the kitchen, so focus on execution quality and what comes *after* the drop, not on using it as a finishing shot.
+
+
+=== Dink ===
+## Scouting Report: Dink — Final Shot Win Rate by Skill Level
+
+Across most competitive skill levels, the dink closes out a rally as a winner roughly 22–29% of the time, meaning it is a relatively consistent but modest finishing shot rather than a dominant put-away. The standout exception is the Pro level, which shows the highest win rate at 32.7%, suggesting that elite players are better at converting dinks into outright winners — likely through superior placement and timing. On the lower end, 5.0 players show the weakest win rate among the well-represented groups at 22.2%, which may indicate that opponents at that level are skilled enough to handle dinks but players are still relying on them heavily as a finishing shot. It is worth noting that the 2.5 level (only 7 final shots) and Senior Pro level (only 15 final shots) have very small sample sizes, so their numbers — 57.1% and 26.7% respectively — should be treated with caution and not read as reliable trends. The key strategic takeaway is that for players at 4.5 and 5.0 levels, the dink alone is unlikely to win the point outright, so players and coaches should focus on using dinks to *set up* a more aggressive finishing shot rather than expecting the dink itself to end the rally.
+
+
+=== Transition Zone - Approach ===
+## Scouting Report: Transition Zone – Approach Shot (Final Shot of Rally)
+
+The transition zone approach shot shows a clear performance peak at the 4.0 level (56.7% win rate), with most other skill levels clustering in the mid-to-upper 30s to low 40s, suggesting this shot becomes more effective as players develop but doesn't maintain that dominance at higher levels. Notably, 4.0 players win with this shot at a significantly higher rate than everyone else, while 3.0 players (16.7%) and 5.0 players (36.9%) struggle with it the most among groups with reliable sample sizes. The 2.5 level (only 2 final shots) and 3.5 level should be interpreted cautiously — actually, the 2.5 sample is extremely small and unreliable, and the 3.5 and higher groups have enough volume to be meaningful. **Flag for small sample size: the 2.5 group (only 2 shots) tells us very little and should be disregarded for meaningful conclusions.** The key strategic takeaway is that higher-level players (4.5 and above) appear to defend or punish this shot more effectively, so if you're playing at 4.5 or above, leaning on a transition zone approach as a rally-ender is a lower-percentage strategy — prioritize getting to the kitchen line before attacking rather than trying to finish from the transition zone.
+
+
+=== Return ===
+## Scouting Report: Return Shot (as Rally-Ending Shot)
+
+Across skill levels, the Return is a low-percentage winner overall, with most groups converting at roughly 2–7% when the return ends the rally — meaning this shot very rarely wins the point outright. The standout exceptions are the 2.5 and 3.0 levels, which show higher winner rates of 9.1% and 10.8% respectively, likely reflecting weaker serve quality at those levels that allows attackable returns. At the other end, the 5.0 level shows the lowest rate at just 1.8%, suggesting that at higher levels, serves are strong enough that a clean return winner is extremely rare. It's worth noting that the 2.5 (44 shots), 5.5 (43 shots), and Senior Pro (10 shots) groups have relatively small sample sizes — particularly Senior Pro — so those numbers should be treated with caution and not over-interpreted. The key strategic takeaway is that players and coaches at the 3.5 level and above should not be trying to win the point with the return itself; instead, the return should be treated as a setup shot to move forward and gain position for the third-shot exchange.
+
+
+=== Speed Up ===
+## Scouting Report: Speed Up Shot — Final Shot Win Rate by Skill Level
+
+The Speed Up shot shows a clear trend: it works better at mid-level play (3.5–4.0) and becomes less effective as skill level rises. Players at the 3.5 and 4.0 levels convert this shot into winners roughly 65% of the time, while players at the 4.5 level and above — including Pros — win only about 44–47% of the time, suggesting that higher-level players are much better at defending and countering the speed up. The 3.0, 2.5, and Senior Pro groups each have fewer than 30 final shots in the data, so their win percentages (75%, 50%, and 50% respectively) should be treated with caution due to small sample sizes. Notably, the 4.5+ levels all hover just under 50%, meaning a speed up at those levels is essentially a coin flip when it ends the rally — and that doesn't account for all the rallies where the speed up *didn't* end things and potentially put the hitter in a worse position. **The key takeaway for players and coaches:** if you're competing at 4.5 or above, think twice before relying on the speed up as a put-away — your opponents are likely well-equipped to handle it, and a more patient, reset-based strategy may win more points in the long run.
+
+
+=== 3rd Shot Drive ===
+## Scouting Report: 3rd Shot Drive (as Rally-Ending Shot)
+
+The 3rd shot drive ends rallies as a winner at a fairly consistent rate across skill levels, generally falling in the **13–20% range**, suggesting this shot rarely outright wins the point on its own regardless of who is hitting it. The **4.5 level stands out as the strongest performer at 20.1%**, while **Pro and 3.0 players show the lowest win rates (14.2% and 12.9% respectively)**, hinting that higher-level opponents are better at neutralizing or countering this shot when it ends a rally. It's worth noting that the **2.5, 5.5, and Senior Pro groups all have fewer than 30 final shots in this dataset**, so their numbers should be treated with caution — those percentages are based on very small samples and may not reflect true tendencies. The fact that even elite Pro players win only about 1 in 7 rallies this way reinforces what most coaches already preach: the 3rd shot drive is best used as a **pressure tool to set up the next shot**, not as a swing-for-the-winner play. Players and coaches should focus on what happens *after* the drive lands — transitions and 5th shot opportunities — rather than expecting the drive itself to finish points.
+
+
+=== Serve ===
+## Scouting Report: Serve as Rally-Ending Shot
+
+The serve almost never wins the rally outright at competitive skill levels — win rates drop sharply from around 20% at the lower levels down to under 5% at 3.5 and above, falling all the way to 0% among Pro and Senior Pro players. The 2.5 and 3.0 levels stand out as clear outliers where the serve ends rallies as a winner roughly one in five times, but both of those groups have fewer than 30 final shots in the data, so those numbers should be treated with caution as the sample sizes are too small to be fully reliable. The 2.5 group (19 shots) and the Senior Pro group (1 shot) are especially limited and should not be used to draw firm conclusions. From 3.5 onward, where the data is much more robust, the serve virtually never wins the point on its own. The strategic takeaway is clear: at any competitive level, players and coaches should not focus practice time on trying to hit outright ace serves — instead, energy is better spent on what comes *after* the serve, since the serve itself is almost never the shot that wins the rally.
+
+
+=== Unknown ===
+## Scouting Report: "Unknown" Shot Type — Final Shot Win Rate
+
+Across skill levels, this shot type wins roughly 20–25% of the time when it ends a rally, suggesting it is generally **not a high-percentage finishing shot** for most players. The clearest exceptions are **4.0 players (58.3% win rate) and Pros (50.0%)**, where this shot performs significantly better than at every other level — indicating that execution quality at those levels may be unlocking something the other groups are not. However, it is worth noting that **several groups have small sample sizes** — specifically 2.5 (1 shot), 3.0 (1 shot), 3.5 (5 shots), 4.5 (26 shots), and 5.5 (9 shots) — so their percentages are **less reliable and should be interpreted with caution**. The 5.0 group (48 shots) and Pro group (54 shots) offer the most dependable data points in this dataset. **Strategic takeaway:** Unless you are playing at the 4.0 level or are a Pro, leaning on this shot as a rally-ender appears risky — coaches working with 3.5 through 5.5 players (outside of 4.0) should focus on identifying *why* 4.0s succeed with it and whether that technique can be taught or if it reflects a different shot classification issue entirely.
+
+
+=== Lob ===
+## Lob Shot Scouting Report
+
+The lob as a rally-ending shot wins roughly 28–38% of the time across most skill levels, making it a moderately effective weapon but far from a dominant one. The 3.5-level stands out as the weakest performer at just 19%, suggesting players at that level may be lobbing too predictably or into situations where opponents can easily put the ball away. On the higher end, the 3.0 (38.5%) and Pro (35.6%) levels show the strongest results, hinting that both beginners and experienced players may use the lob more strategically — though the 3.0, 3.5, 4.5, and 5.5 groups, as well as the Senior Pro category, all have fewer than 30 final shots and should be treated as small, less reliable samples. The Senior Pro's 100% win rate (1 shot) is essentially meaningless as a data point given that single observation. **Strategic takeaway:** Unless you're at the Pro level or clearly out of position, the lob is not a high-percentage finishing shot — use it as a reset or change-of-pace tool rather than a go-to winner, and focus your aggressive shot selection on higher-percentage options when you have the chance to put the ball away.
+
+
+=== 3rd Shot Lob ===
+## Scouting Report: 3rd Shot Lob (as Final Shot)
+
+The 3rd Shot Lob becomes significantly less effective as skill level increases — win rates drop sharply from the lower levels down to near zero at the top of the competitive ladder, suggesting that higher-level players are well-equipped to put away or counter this shot. The 4.0 level has the most reliable data here with 52 final shots recorded, and even there the shot only wins the rally about 1 in 9 times (11.5%), which is a red flag for anyone relying on it regularly. **Every other skill level — 2.5, 3.0, 3.5, 4.5, 5.0, 5.5, and Pro — has fewer than 30 final shots in the sample, so those numbers should be treated with caution and not taken at face value.** The 2.5 level shows a 100% win rate, but with only 5 instances recorded, that figure almost certainly overstates how reliable this shot actually is. The strategic takeaway is straightforward: unless you are playing at the very beginner level, the 3rd Shot Lob is a low-percentage way to end a rally, and players and coaches should prioritize developing a 3rd Shot Drop or Drive as the primary transition shot instead.
+
+
+=== Ernie ===
+**Ernie Shot Scouting Report**
+
+The Ernie is a solid finishing shot overall, converting between roughly 45% and 75% of the time across skill levels, suggesting it is a legitimate weapon when executed well. The 4.0 level stands out as the most reliable data point, with 51 final shots showing a 54.9% win rate, giving us the most confidence in that number. However, every other skill level — 3.5, 4.5, 5.0, 5.5, and Pro — has fewer than 30 final shots in the sample, so those win rates should be treated with caution since a handful of rallies can swing the percentages dramatically. The 4.5 group is worth watching, as its 45.5% win rate is the lowest of any group, hinting that players at that level may be reading and countering the Ernie more effectively — though again, the small sample limits how much we can conclude. **Strategic takeaway:** At the 4.0 level where the data is most trustworthy, the Ernie wins more than half the time when used as a finishing shot, so players at that level should feel confident deploying it aggressively at the net when the opportunity presents itself, rather than holding back out of uncertainty.
+
+
+=== ATP ===
+## ATP Shot – Scouting Report
+
+When used as a finishing shot, the ATP converts to a winner less than half the time across most skill levels, suggesting it is far from a reliable put-away. The 4.0 level shows the strongest performance at 46.7% and is also the only group with a sample large enough (30 shots) to feel confident in the numbers. Every other skill level — 3.0, 4.5, 5.0, 5.5, and Pro — has fewer than 30 attempts, so those results should be treated with caution and not read as firm conclusions. Notably, Pro players converted at just 20%, and the 5.0 and 5.5 players converted zero of their attempts, hinting that higher-level opponents may be well-equipped to handle or even punish the ATP. The strategic takeaway is simple: unless you're highly practiced with this shot, think of the ATP as a way to stay in the rally rather than end it — focus on placement and recovery rather than swinging for an outright winner.
+
+
+=== Other ===
+## Scouting Report: "Other" Shot Type as Rally-Ender
+
+Across all skill levels, the "Other" shot type is a poor rally finisher, converting very few rallies into outright winners. The one exception worth noting is the 3.5 level, where this shot won 37.5% of the time (3 out of 8 final shots) — a noticeably higher rate than any other group, where the win rate was 0%. However, **every single skill level here has fewer than 30 final shots**, meaning none of these numbers are reliable enough to draw firm conclusions — the 3.5 result in particular is based on just 8 shots, so that 37.5% figure could easily be a fluke. Even at the Pro level, only 2 instances were recorded, making it nearly impossible to judge how this shot truly performs at the highest level. The strategic takeaway is simple: avoid relying on "Other" shots to close out rallies, and focus instead on shot types with larger, proven track records as winners — at least until more data is available to say otherwise.
